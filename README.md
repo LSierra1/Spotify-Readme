@@ -8,6 +8,18 @@
 
 </div>
 
+# 🇺🇸
+## Disclaimer from *Sierra*
+> This repository was forked from [tthn0](https://github.com/tthn0/Spotify-Readme) and is hosted on [Vercel](https://vercel.com/) with the necessary changes to keys (private keys and Spotify keys) so that the widget display is configured for my profile and shows my customized settings (such as spin, scan, theme, and rainbow).
+> No instructions have been modified. This repository was forked with the sole purpose of hosting my settings on Vercel. You can follow the same instructions from the original creator below.
+
+# 🇧🇷
+## Aviso de *Sierra*
+> Este repositório foi "forkeado" de [tthn0](https://github.com/tthn0/Spotify-Readme) e está hospedado no [Vercel](https://vercel.com/) com as alterações necessárias nas chaves (chaves privadas e chaves do Spotify) para que o widget seja configurado para o meu perfil e exiba as minhas configurações personalizadas (como spin, scan, tema e arco-íris).
+> Nenhuma instrução foi modificada. Este repositório foi "forkeado" com o único propósito de hospedar as minhas configurações no Vercel. Você pode seguir as mesmas instruções do criador original abaixo.
+
+
+
 <p align="center">
   A dynamic, customizable, and real-time Spotify now-playing widget for your README files that syncs with the song you’re currently playing. If you're not currently playing a song, it'll display one of your recent songs! Feel free to ask for help or make any PRs/issues/suggestions 😄
 </p>
